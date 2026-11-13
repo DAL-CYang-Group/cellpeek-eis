@@ -1,0 +1,3 @@
+spectrum,R_HFI (ohm),R_contact (ohm),R_ct (ohm),semicircle width = R_contact + R_ct (ohm),semicircles,inductive points,diffusion tail,tail exponent,"fit error (%), points with -Z'' >= 0","fit error (%), all points"
+synthetic_inductance_noise,0.199579,0.0427661,0.257096,0.299862,3,fitted with an inductor,yes,0.500625,0.39,0.38
+synthetic_three_arcs,0.2,0.0500001,0.25,0.3,3,none,yes,0.5,0.00,0.00

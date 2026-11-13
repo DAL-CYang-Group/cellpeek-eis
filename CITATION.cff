@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "cellpeek-eis: equivalent-circuit fitting of impedance spectra of Li-ion cells"
+version: 1.0.0
+date-released: 2026-11-13
+license: MIT
+authors:
+  - family-names: Yang
+    given-names: Chongyin
+    affiliation: Dalhousie University
+references:
+  - type: article
+    title: "Studies of the SEI layers in Li(Ni0.5Mn0.3Co0.2)O2/Artificial Graphite Cells after Formation and after Cycling"
+    authors:
+      - family-names: Keefe
+        given-names: A. S.
+      - family-names: Weber
+        given-names: Rochelle
+      - family-names: Hill
+        given-names: I. G.
+      - family-names: Dahn
+        given-names: J. R.
+    journal: Journal of The Electrochemical Society
+    volume: 167
+    issue: 12
+    start: 120507
+    year: 2020
+    doi: 10.1149/1945-7111/abaa1b
+  - type: article
+    title: "Exploring Impedance Growth in High Voltage NMC/Graphite Li-Ion Cells Using a Transmission Line Model"
+    authors:
+      - family-names: Abarbanel
+        given-names: D. W.
+      - family-names: Nelson
+        given-names: K. J.
+      - family-names: Dahn
+        given-names: J. R.
+    journal: Journal of The Electrochemical Society
+    volume: 163
+    issue: 3
+    start: A522
+    year: 2016
+    doi: 10.1149/2.0901603jes

@@ -1,0 +1,10 @@
+{
+  "name": "cellpeek-eis",
+  "version": "1.0.0",
+  "description": "Equivalent-circuit fitting of impedance spectra of Li-ion cells: R_HFI, R_contact, R_ct",
+  "license": "MIT",
+  "main": "src/eis.js",
+  "bin": {"cellpeek-eis": "bin/cli.js"},
+  "scripts": {"test": "node test/test.js"},
+  "engines": {"node": ">=18"}
+}
