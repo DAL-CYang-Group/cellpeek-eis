@@ -101,6 +101,8 @@ In a browser the file defines `window.CellPeekEIS`.
 
 ## Version
 
+1.0.1 (2026-11-16) — same code as 1.0.0; released again so that Zenodo archives it.
+
 1.0.0 — taken from CellPeek commit `e0aa4a6` (2026-11-13), fitting method version 3.
 
 ## Licence
