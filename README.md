@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24283256.svg)](https://doi.org/10.5281/zenodo.24283256)
 
-Equivalent-circuit fitting of electrochemical impedance spectra (EIS) of Li-ion cells. For every spectrum it returns the
+Ultra-fast batch equivalent-circuit fitting of electrochemical impedance spectra (EIS) of Li-ion cells. For every spectrum it returns the
 series resistance, the contact resistance and the charge-transfer resistance.
 
 This is the analysis code of the "EIS ECM" tab of CellPeek (https://dal-cyang-group.github.io/cellpeek/), without the
@@ -103,7 +103,7 @@ In a browser the file defines `window.CellPeekEIS`.
 
 ## How to cite
 
-C. Yang, cellpeek-eis: equivalent-circuit fitting of impedance spectra of Li-ion cells, Zenodo,
+C. Yang, cellpeek-eis: ultra-fast batch equivalent-circuit fitting of impedance spectra of Li-ion cells, Zenodo,
 https://doi.org/10.5281/zenodo.24283256 (this DOI always points to the latest version; every release also has its own DOI
 on the Zenodo page). Please also cite the two papers in `NOTICE.md`, which the circuit and the definition of R_ct come from.
 

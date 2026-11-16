@@ -1,4 +1,4 @@
-// cellpeek-eis — equivalent-circuit fitting of impedance spectra (the analysis code of the EIS ECM tab of CellPeek).
+// cellpeek-eis — ultra-fast batch equivalent-circuit fitting of impedance spectra (the analysis code of the EIS ECM tab of CellPeek).
 // Model (series):  [L] + R_HFI + ZARC_1 (contact) + ZARC_2 [+ ZARC_3] [+ diffusion tail]
 //   ZARC_k = R_k / (1 + (jωτ_k)^α_k)      a depressed semicircle (R parallel to a constant-phase element), diameter R_k
 //   tail   = W (jω)^(-p)                  p = 0.5 is a Warburg line (45°); p is fitted between 0.3 and 0.9
