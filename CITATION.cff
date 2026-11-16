@@ -4,6 +4,7 @@ title: "cellpeek-eis: equivalent-circuit fitting of impedance spectra of Li-ion 
 version: 1.0.1
 date-released: 2026-11-16
 license: MIT
+doi: 10.5281/zenodo.24283256
 authors:
   - family-names: Yang
     given-names: Chongyin
